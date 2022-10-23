@@ -1,0 +1,19 @@
+/* styles.css */
+.one {
+    background-color: rgb(240, 135, 161);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.two {
+    font-size: 22px;
+    font-weight: 400;
+}
+#first {
+    font-size: 32px;
+    font-weight: 300;
+    color: rgb(27, 27, 231)
+}
+#second {
+    background-color: rgb(108, 228, 108);
+    font-weight: 700;
+    font-size: 26px;
+}

@@ -1,0 +1,12 @@
+.but-one,
+.but-two {
+    font-size: 28px;   
+    font-family: Helvetica, 'Times New Roman' sans-serif; 
+}
+.but-one {
+    background-color:black;
+    color: white;
+}
+.but-two {
+    background-color: rgb(228, 228, 5);
+}
